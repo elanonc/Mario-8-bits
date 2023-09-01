@@ -1,0 +1,348 @@
+.relative_head {
+    position: relative;
+
+    left: 680px;
+    top: 180px;
+
+    width: 220px;
+    height: 100px;
+}
+
+
+.looks {
+    height: 20px;
+    width: 20px;
+    border: 1px solid #000;
+}
+
+
+.head01 {
+    position: absolute;
+    top: 0px;
+    left: 20px;
+    background-color: rgb(78, 36, 36);
+}
+
+.head02 {
+    position: absolute;
+    top: 0px;
+    left: 40px;
+    background-color: rgb(78, 36, 36);
+}
+
+.head03 {
+    position: absolute;
+    top: 0px;
+    left: 60px;
+    background-color: rgb(78, 36, 36);
+}
+
+.head04 {
+    position: absolute;
+    top: 0px;
+    left: 80px;
+    background-color: goldenrod;
+}
+
+
+.head05 {
+    position: absolute;
+    top: 0px;
+    left: 100px;
+    background-color: goldenrod;
+}
+
+
+.head06 {
+    position: absolute;
+    top: 0px;
+    left: 120px;
+    background-color: black;
+}
+
+.head07 {
+    position: absolute;
+    top: 0px;
+    left: 140px;
+    background-color: goldenrod;
+}
+
+.head08 {
+    position: absolute;
+    top: 20px;
+    left: 0px;
+    background-color: rgb(78, 36, 36);
+}
+
+.head09 {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    background-color: goldenrod;
+}
+
+.head10 {
+    position: absolute;
+    top: 20px;
+    left: 40px;
+    background-color: rgb(78, 36, 36);
+}
+
+.head11 {
+    position: absolute;
+    top: 20px;
+    left: 60px;
+    background-color: goldenrod;
+}
+
+.head12 {
+    position: absolute;
+    top: 20px;
+    left: 80px;
+    background-color: goldenrod;
+}
+
+.head13 {
+    position: absolute;
+    top: 20px;
+    left: 100px;
+    background-color: goldenrod;
+}
+
+.head14 {
+    position: absolute;
+    top: 20px;
+    left: 120px;
+    background-color: black;
+}
+
+.head15 {
+    position: absolute;
+    top: 20px;
+    left: 140px;
+    background-color: goldenrod;
+}
+
+.head16 {
+    position: absolute;
+    top: 20px;
+    left: 160px;
+    background-color: goldenrod;
+}
+
+.head17 {
+    position: absolute;
+    top: 20px;
+    left: 160px;
+    background-color: goldenrod;
+}
+
+.head18 {
+    position: absolute;
+    top: 20px;
+    left: 160px;
+    background-color: goldenrod;
+}
+
+.head19 {
+    position: absolute;
+    top: 20px;
+    left: 180px;
+    background-color: goldenrod;
+}
+
+.head20 {
+    position: absolute;
+    top: 40px;
+    left: 0px;
+    background-color: rgb(78, 36, 36);
+}
+
+.head21 {
+    position: absolute;
+    top: 40px;
+    left: 20px;
+    background-color: goldenrod;
+}
+
+.head22 {
+    position: absolute;
+    top: 40px;
+    left: 40px;
+    background-color: rgb(78, 36, 36);
+}
+
+.head23 {
+    position: absolute;
+    top: 40px;
+    left: 60px;
+    background-color: rgb(78, 36, 36);
+}
+
+.head24 {
+    position: absolute;
+    top: 40px;
+    left: 80px;
+    background-color: goldenrod;
+}
+
+.head25 {
+    position: absolute;
+    top: 40px;
+    left: 100px;
+    background-color: goldenrod;
+}
+
+.head26 {
+    position: absolute;
+    top: 40px;
+    left: 120px;
+    background-color: goldenrod;
+}
+
+.head27 {
+    position: absolute;
+    top: 40px;
+    left: 140px;
+    background-color: black;
+}
+
+.head28 {
+    position: absolute;
+    top: 40px;
+    left: 160px;
+    background-color: goldenrod;
+}
+
+.head29 {
+    position: absolute;
+    top: 40px;
+    left: 180px;
+    background-color: goldenrod;
+}
+
+.head30 {
+    position: absolute;
+    top: 40px;
+    left: 200px;
+    background-color: goldenrod;
+}
+
+.head31 {
+    position: absolute;
+    top: 60px;
+    left: 20px;
+    background-color: rgb(78, 36, 36);
+}
+
+.head32 {
+    position: absolute;
+    top: 60px;
+    left: 40px;
+    background-color: goldenrod;
+}
+
+.head33 {
+    position: absolute;
+    top: 60px;
+    left: 60px;
+    background-color: goldenrod;
+}
+
+.head34 {
+    position: absolute;
+    top: 60px;
+    left: 80px;
+    background-color: goldenrod;
+}
+
+.head35 {
+    position: absolute;
+    top: 60px;
+    left: 100px;
+    background-color: goldenrod;
+}
+
+.head36 {
+    position: absolute;
+    top: 60px;
+    left: 120px;
+    background-color: black;
+}
+
+.head37 {
+    position: absolute;
+    top: 60px;
+    left: 140px;
+    background-color: black;
+}
+
+.head38 {
+    position: absolute;
+    top: 60px;
+    left: 160px;
+    background-color: black;
+}
+
+.head39 {
+    position: absolute;
+    top: 60px;
+    left: 180px;
+    background-color: black;
+}
+
+.head40 {
+    position: absolute;
+    top: 80px;
+    left: 40px;
+    background-color: goldenrod;
+}
+
+.head41 {
+    position: absolute;
+    top: 80px;
+    left: 60px;
+    background-color: goldenrod;
+}
+
+.head42 {
+    position: absolute;
+    top: 80px;
+    left: 80px;
+    background-color: goldenrod;
+}
+
+.head43 {
+    position: absolute;
+    top: 80px;
+    left: 100px;
+    background-color: goldenrod;
+}
+
+.head44 {
+    position: absolute;
+    top: 80px;
+    left: 120px;
+    background-color: goldenrod;
+}
+
+.head45 {
+    position: absolute;
+    top: 80px;
+    left: 140px;
+    background-color: goldenrod;
+}
+
+.head46 {
+    position: absolute;
+    top: 80px;
+    left: 160px;
+    background-color: goldenrod;
+}
+
+.head47 {
+    position: absolute;
+    top: 80px;
+    left: 180px;
+    background-color: goldenrod;
+}
